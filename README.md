@@ -44,4 +44,4 @@ Trabalho para desenvolvimento de ambientes modulares para meus projetos pessoais
 
 ---
 
-> "Automatizo para aprender e compartilha. Crio projetos para facilitar o dia a dia, pessoal e do meu time!"
+> "Automatizo para aprender e compartilhar. Crio projetos para facilitar o dia a dia, pessoal e do meu time!"
