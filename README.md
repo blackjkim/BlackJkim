@@ -36,9 +36,11 @@ Trabalho para desenvolvimento de ambientes modulares para meus projetos pessoais
 
 ## 📈 Commits & Contribuições
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=blackjkim&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=blackjkim&theme=tokyonight&locale=pt_BR)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
